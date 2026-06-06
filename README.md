@@ -91,7 +91,7 @@ python main.py
 
 ## 🎥 Demonstração
 
-[Link do vídeo no YouTube](#) ← *a ser adicionado*
+[Link do vídeo no YouTube](#https://youtu.be/-XW0erARgRs)
 
 ---
 
