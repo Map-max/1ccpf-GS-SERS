@@ -91,7 +91,7 @@ python main.py
 
 ## 🎥 Demonstração
 
-[Link do vídeo no YouTube](#https://youtu.be/-XW0erARgRs)
+[Link do vídeo no YouTube](https://youtu.be/-XW0erARgRs)
 
 ---
 
